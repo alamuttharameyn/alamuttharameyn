@@ -39,35 +39,35 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>💪 Fitlioo</h3>
-      <p>Sağlıklı yaşam odaklı mobil uygulama.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      </p>
-      <sub>🛠️ Geliştirme aşamasında</sub>
+    <td width="33%" valign="top"><h3>💪 Fitlioo</h3></td>
+    <td width="33%" valign="top"><h3>📖 Kitopya</h3></td>
+    <td width="33%" valign="top"><h3>🌐 GMG</h3></td>
+  </tr>
+  <tr>
+    <td valign="top">Sağlıklı yaşam odaklı mobil uygulama.</td>
+    <td valign="top">Etkileşimli hikâye oyunu deneyimi.</td>
+    <td valign="top">Yazılım, mobil uygulama, UI/UX ve dijital ürün tasarımını kapsayan teknoloji markamın web sitesi.</td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
     </td>
-    <td width="33%" valign="top">
-      <h3>📖 Kitopya</h3>
-      <p>Etkileşimli hikâye oyunu deneyimi.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      </p>
-      <sub>🛠️ Geliştirme aşamasında</sub>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
     </td>
-    <td width="33%" valign="top">
-      <h3>🌐 GMG</h3>
-      <p>Kurgusal bir yazılım markası için konsept web sitesi.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      </p>
-      <sub>🎨 Konsept çalışma</sub>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
     </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>🛠️ Geliştirme aşamasında</sub></td>
+    <td valign="top"><sub>🛠️ Geliştirme aşamasında</sub></td>
+    <td valign="top"><sub>🛠️ Geliştirme aşamasında</sub></td>
   </tr>
 </table>
 
